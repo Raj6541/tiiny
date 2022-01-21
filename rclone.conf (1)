@@ -1,0 +1,9 @@
+[5d44cd8d-397c-4107-b79b-17f2b6a071e8]
+type = alias
+remote = /storage/emulated/0
+
+[gdrive]
+type = drive
+root_folder_id = 0AE98D4MIbKKHUk9PVA
+token = {"access_token":"ya29.A0ARrdaM8L_6OVsRFL8MLCoDYmLy9aHigEaCejjpIhjISMlznOQ4NPM_JChJc_1eo1SI6yfV_0qYsGV-iEXKYbmosFpHn5kJqM_8Q7kuKM7Yzsa7KDf1FU9chtNe6fHKro9pMFO9bBVbXfXPj2IS7oDBt7i3EG","token_type":"Bearer","refresh_token":"1//0gInM6sBFmUGXCgYIARAAGBASNwF-L9IrZbIZne8PKGH_6VgR9UvVffU7ENhHlqW6Cn5jSadMJettQApaXKRCVWpngb68E0tounc","expiry":"2022-01-19T12:38:00.791799619Z"}
+
